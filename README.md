@@ -1,1 +1,3 @@
-# DV---A3
+# DV-A3
+
+#Visual Analytics: The Twitch Dataset
